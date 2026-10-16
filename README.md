@@ -28,7 +28,7 @@ To resolve this issue:
 
 ## Instructor
 
-Ayodele Aransiola
+Ayodele Aransiola -
 
 Technical Support Specialist and Software Engineer    
 
