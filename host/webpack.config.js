@@ -23,7 +23,7 @@ module.exports = {
     new ModuleFederationPlugin({
       name: 'host',
       remotes: {
-        remote: 'remote@http://localhost:3001/remoteEntry.js',
+        remote: 'remote@https://automatic-goldfish-77v549q4pwfpx49-3001.app.github.dev/remoteEntry.js',
       },
       shared: ['react', 'react-dom'],
     }),
